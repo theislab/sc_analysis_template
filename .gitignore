@@ -127,3 +127,21 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# patterns to prevent data and figures from being uploaded
+*.csv
+*.pickle
+*.h5ad
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.mtx
+*.txt
+
+# OS specifics
+**.DS_Store
+
+# R stuff
+*.Rhistory
