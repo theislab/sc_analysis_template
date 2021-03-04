@@ -132,6 +132,7 @@ dmypy.json
 *.csv
 *.pickle
 *.h5ad
+*.loom
 *.pdf
 *.png
 *.jpg
