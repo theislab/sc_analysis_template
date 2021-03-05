@@ -140,6 +140,7 @@ dmypy.json
 *.svg
 *.mtx
 *.txt
+*.rds
 
 # OS specifics
 **.DS_Store
